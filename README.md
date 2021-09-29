@@ -1,1 +1,11 @@
 # TopDownShooter
+
+Its a simple android game demo made using 
+<a href="https://libgdx.com/">LibGDX</a>
+in a <a href="https://en.m.wikipedia.org/wiki/Entity_component_system">ECS (Entity-Component-System)</a>
+Architecture.
+
+# Note
+
+This is my first time trying <a href="https://en.m.wikipedia.org/wiki/Entity_component_system">ECS (Entity-Component-System)</a>
+so the code is really ugly.
